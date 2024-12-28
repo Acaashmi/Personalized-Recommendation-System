@@ -47,6 +47,12 @@ The **Personalized Recommendation System** is a web-based application designed t
   pip install -r requirements.txt
   
 ---
+### Demo
+![image](https://github.com/user-attachments/assets/a638e02c-856e-4d5c-b825-ab48dad06400)
+![image](https://github.com/user-attachments/assets/2840bfcf-0dda-48e4-a595-0192aa3e8fa6)
+![image](https://github.com/user-attachments/assets/1b6c1dd5-ef8c-49a1-a44c-ffd367147675)
+
+
 
 ## Project Structure
  ```bash
